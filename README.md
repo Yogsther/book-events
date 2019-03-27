@@ -1,4 +1,4 @@
-### Book Events
-#### An online event booker
+# Book Events
+### An online event booker
 
 [Planering](PLANERING.md)
